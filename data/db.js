@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = { // node specific, not an express thing
   hubs: {
     find: findHubs,
     findById: findHubById,
